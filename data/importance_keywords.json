@@ -103,5 +103,10 @@
     "keywords": ["cyclone", "earthquake", "flood", "drought", "pandemic", "epidemic", "natural disaster", "climate change"],
     "weight": 7,
     "category": "Geopolitical"
+  },
+  "ai_technology": {
+    "keywords": ["artificial intelligence", "AI", "machine learning", "deep learning", "large language model", "LLM", "ChatGPT", "GPT", "Gemini", "Claude", "DeepSeek", "OpenAI", "Anthropic", "generative AI", "AI chip", "NVIDIA", "GPU", "data center", "AI model", "AI startup", "AI funding", "AI investment", "AI regulation", "AI policy", "robotics", "automation", "AI agent", "AI platform", "neural network", "transformer model", "AI boom", "AI bubble", "AI stocks", "AI rally"],
+    "weight": 8,
+    "category": "AI & Technology"
   }
 }

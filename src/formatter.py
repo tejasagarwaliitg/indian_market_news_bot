@@ -7,10 +7,12 @@ CATEGORY_EMOJIS = {
     "Global Markets": "\U0001f30d",
     "Geopolitical": "\U0001f6e1\ufe0f",
     "Policy & Regulation": "\U0001f4dc",
+    "AI & Technology": "\U0001f916",
 }
 
 CATEGORY_ORDER = [
     "Geopolitical",
+    "AI & Technology",
     "Macro Economy",
     "Policy & Regulation",
     "Corporate",

@@ -19,6 +19,9 @@ RSS_FEEDS = [
     {"name": "Livemint Money", "url": "https://www.livemint.com/rss/money", "authority": 7},
     {"name": "Google Finance India", "url": "https://news.google.com/rss/search?q=indian+stock+market&hl=en-IN&gl=IN&ceid=IN:en", "authority": 6},
     {"name": "Google News India Economy", "url": "https://news.google.com/rss/search?q=Indian+economy+business&hl=en-IN&gl=IN&ceid=IN:en", "authority": 6},
+    {"name": "Google News AI India", "url": "https://news.google.com/rss/search?q=AI+artificial+intelligence+India&hl=en-IN&gl=IN&ceid=IN:en", "authority": 7},
+    {"name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "authority": 7},
+    {"name": "Analytics India Mag", "url": "https://analyticsindiamag.com/feed/", "authority": 6},
 ]
 
 RBI_PR_URL = "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx"

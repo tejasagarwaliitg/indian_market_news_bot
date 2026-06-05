@@ -9,7 +9,8 @@ from src.ticker_map import map_companies
 from src.ranker import rank_articles
 from src.formatter import format_message
 from src.telegram import send_message
-from datetime import datetime, timezone, timedelta
+from src.market_data import get_market_overview
+from src.market_formatter import format_market_overview
 
 
 def main():
@@ -31,24 +32,29 @@ def main():
         tickers = [c["symbol"] for c in companies[:5]]
         print(f"  [{a['rank_score']}] {a['title'][:80]} -> {', '.join(tickers) if tickers else '-'}")
 
-    message = format_message(top_articles)
+    news_message = format_message(top_articles)
+    news_ok = send_message(news_message)
 
-    success = send_message(message)
+    market_data = get_market_overview(top_articles)
+    market_message = format_market_overview(market_data)
+    market_ok = send_message(market_message)
 
-    if success:
-        print("\nDone! News brief delivered.")
+    if news_ok and market_ok:
+        print("\nDone! Both messages delivered to Telegram.")
+    elif news_ok:
+        print("\nDone! News delivered, market overview failed.")
+    elif market_ok:
+        print("\nDone! Market overview delivered, news failed.")
     else:
-        print("\nDone! Run with TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID to deliver.")
+        print("\nBoth messages failed.")
         try:
-            print("\n--- PREVIEW ---")
-            print(message[:2000])
-            print("... (truncated)")
-            print("--- END PREVIEW ---")
+            print("\n--- MARKET PREVIEW (first 2000 chars) ---")
+            print(market_message[:2000])
+            print("\n--- END PREVIEW ---")
         except UnicodeEncodeError:
-            print("\n--- PREVIEW (saved to preview.txt) ---")
-            with open("preview.txt", "w", encoding="utf-8") as f:
-                f.write(message[:3000])
-            print("Preview written to preview.txt")
+            with open("preview_market.txt", "w", encoding="utf-8") as f:
+                f.write(market_message[:3000])
+            print("Market preview written to preview_market.txt")
 
 
 if __name__ == "__main__":
