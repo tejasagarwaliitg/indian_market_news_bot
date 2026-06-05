@@ -1,0 +1,1334 @@
+{
+  "RELIANCE": {
+    "name": "Reliance Industries Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Diversified",
+    "aliases": ["Reliance Industries", "Reliance", "RIL", "Reliance Jio", "Reliance Retail"]
+  },
+  "TCS": {
+    "name": "Tata Consultancy Services",
+    "sector": "IT Services",
+    "sub_sector": "Large Cap IT",
+    "aliases": ["TCS", "Tata Consultancy Services", "Tata Consultancy"]
+  },
+  "HDFCBANK": {
+    "name": "HDFC Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["HDFC Bank", "HDFCBANK"]
+  },
+  "ICICIBANK": {
+    "name": "ICICI Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["ICICI Bank", "ICICI", "ICICIBANK"]
+  },
+  "INFY": {
+    "name": "Infosys Limited",
+    "sector": "IT Services",
+    "sub_sector": "Large Cap IT",
+    "aliases": ["Infosys", "INFY"]
+  },
+  "ITC": {
+    "name": "ITC Limited",
+    "sector": "FMCG",
+    "sub_sector": "Diversified",
+    "aliases": ["ITC", "ITC Ltd"]
+  },
+  "SBIN": {
+    "name": "State Bank of India",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["State Bank of India", "SBI", "SBIN"]
+  },
+  "BHARTIARTL": {
+    "name": "Bharti Airtel Limited",
+    "sector": "Telecom",
+    "sub_sector": "Mobile & Broadband",
+    "aliases": ["Bharti Airtel", "Airtel", "Bharti"]
+  },
+  "HINDUNILVR": {
+    "name": "Hindustan Unilever Limited",
+    "sector": "FMCG",
+    "sub_sector": "Large Cap FMCG",
+    "aliases": ["Hindustan Unilever", "HUL", "Unilever India"]
+  },
+  "KOTAKBANK": {
+    "name": "Kotak Mahindra Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["Kotak Mahindra Bank", "Kotak Bank", "Kotak"]
+  },
+  "BAJFINANCE": {
+    "name": "Bajaj Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Bajaj Finance", "Bajaj Fin"]
+  },
+  "MARUTI": {
+    "name": "Maruti Suzuki India Limited",
+    "sector": "Automobile",
+    "sub_sector": "Passenger Cars",
+    "aliases": ["Maruti Suzuki", "Maruti", "Maruti Suzuki India"]
+  },
+  "TATAMOTORS": {
+    "name": "Tata Motors Limited",
+    "sector": "Automobile",
+    "sub_sector": "Passenger Cars & Commercial Vehicles",
+    "aliases": ["Tata Motors", "Tata Motor", "Tata Motors Ltd", "Jaguar Land Rover", "JLR"]
+  },
+  "AXISBANK": {
+    "name": "Axis Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["Axis Bank", "Axis"]
+  },
+  "WIPRO": {
+    "name": "Wipro Limited",
+    "sector": "IT Services",
+    "sub_sector": "Large Cap IT",
+    "aliases": ["Wipro"]
+  },
+  "BAJAJFINSV": {
+    "name": "Bajaj Finserv Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Bajaj Finserv"]
+  },
+  "HCLTECH": {
+    "name": "HCL Technologies Limited",
+    "sector": "IT Services",
+    "sub_sector": "Large Cap IT",
+    "aliases": ["HCL Technologies", "HCL Tech", "HCL"]
+  },
+  "SUNPHARMA": {
+    "name": "Sun Pharmaceutical Industries Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Sun Pharma", "Sun Pharmaceutical"]
+  },
+  "TITAN": {
+    "name": "Titan Company Limited",
+    "sector": "Retail",
+    "sub_sector": "Jewellery",
+    "aliases": ["Titan", "Titan Company"]
+  },
+  "NTPC": {
+    "name": "NTPC Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["NTPC", "National Thermal Power"]
+  },
+  "POWERGRID": {
+    "name": "Power Grid Corporation of India Limited",
+    "sector": "Power",
+    "sub_sector": "Transmission",
+    "aliases": ["Power Grid", "Power Grid Corp"]
+  },
+  "LT": {
+    "name": "Larsen & Toubro Limited",
+    "sector": "Construction",
+    "sub_sector": "Diversified",
+    "aliases": ["Larsen & Toubro", "L&T", "Larsen and Toubro"]
+  },
+  "M&M": {
+    "name": "Mahindra & Mahindra Limited",
+    "sector": "Automobile",
+    "sub_sector": "SUVs & Trucks",
+    "aliases": ["Mahindra & Mahindra", "M&M", "Mahindra"]
+  },
+  "HINDALCO": {
+    "name": "Hindalco Industries Limited",
+    "sector": "Metals",
+    "sub_sector": "Non-Ferrous (Aluminum)",
+    "aliases": ["Hindalco", "Hindalco Industries"]
+  },
+  "TATASTEEL": {
+    "name": "Tata Steel Limited",
+    "sector": "Metals",
+    "sub_sector": "Ferrous (Steel)",
+    "aliases": ["Tata Steel"]
+  },
+  "ULTRACEMCO": {
+    "name": "UltraTech Cement Limited",
+    "sector": "Cement",
+    "sub_sector": "Large Cap",
+    "aliases": ["UltraTech Cement", "UltraTech"]
+  },
+  "ADANIENT": {
+    "name": "Adani Enterprises Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Diversified",
+    "aliases": ["Adani Enterprises", "Adani Ent"]
+  },
+  "ADANIPORTS": {
+    "name": "Adani Ports and Special Economic Zone Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Ports",
+    "aliases": ["Adani Ports", "Adani Port", "APSEZ"]
+  },
+  "ADANIGREEN": {
+    "name": "Adani Green Energy Limited",
+    "sector": "Power",
+    "sub_sector": "Renewables",
+    "aliases": ["Adani Green", "Adani Green Energy"]
+  },
+  "ADANIPOWER": {
+    "name": "Adani Power Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["Adani Power"]
+  },
+  "ADANIENSOL": {
+    "name": "Adani Energy Solutions Limited",
+    "sector": "Power",
+    "sub_sector": "Transmission",
+    "aliases": ["Adani Energy Solutions", "Adani Transmission"]
+  },
+  "ONGC": {
+    "name": "Oil and Natural Gas Corporation Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "E&P",
+    "aliases": ["ONGC", "Oil and Natural Gas Corp"]
+  },
+  "JSWSTEEL": {
+    "name": "JSW Steel Limited",
+    "sector": "Metals",
+    "sub_sector": "Ferrous (Steel)",
+    "aliases": ["JSW Steel"]
+  },
+  "NESTLEIND": {
+    "name": "Nestl\u00e9 India Limited",
+    "sector": "FMCG",
+    "sub_sector": "Packaged Foods",
+    "aliases": ["Nestle India", "Nestl\u00e9 India", "Nestle"]
+  },
+  "COALINDIA": {
+    "name": "Coal India Limited",
+    "sector": "Metals",
+    "sub_sector": "Mining (Coal)",
+    "aliases": ["Coal India"]
+  },
+  "IOCL": {
+    "name": "Indian Oil Corporation Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Refining & Marketing",
+    "aliases": ["Indian Oil", "IOC", "IOCL", "Indian Oil Corp"]
+  },
+  "DRREDDY": {
+    "name": "Dr. Reddy's Laboratories Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Dr Reddy", "Dr. Reddy's", "Reddy's Laboratories"]
+  },
+  "BRITANNIA": {
+    "name": "Britannia Industries Limited",
+    "sector": "FMCG",
+    "sub_sector": "Packaged Foods",
+    "aliases": ["Britannia", "Britannia Industries"]
+  },
+  "CIPLA": {
+    "name": "Cipla Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Cipla"]
+  },
+  "TECHM": {
+    "name": "Tech Mahindra Limited",
+    "sector": "IT Services",
+    "sub_sector": "Large Cap IT",
+    "aliases": ["Tech Mahindra", "TechM"]
+  },
+  "BAJAJ-AUTO": {
+    "name": "Bajaj Auto Limited",
+    "sector": "Automobile",
+    "sub_sector": "2 & 3 Wheelers",
+    "aliases": ["Bajaj Auto"]
+  },
+  "HEROMOTOCO": {
+    "name": "Hero MotoCorp Limited",
+    "sector": "Automobile",
+    "sub_sector": "2 Wheelers",
+    "aliases": ["Hero MotoCorp", "Hero", "Hero Honda"]
+  },
+  "EICHERMOT": {
+    "name": "Eicher Motors Limited",
+    "sector": "Automobile",
+    "sub_sector": "2 Wheelers",
+    "aliases": ["Eicher Motors", "Royal Enfield", "Eicher"]
+  },
+  "TVSMOTOR": {
+    "name": "TVS Motor Company Limited",
+    "sector": "Automobile",
+    "sub_sector": "2 Wheelers",
+    "aliases": ["TVS Motor", "TVS Motors"]
+  },
+  "LUPIN": {
+    "name": "Lupin Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Lupin"]
+  },
+  "HAVELLS": {
+    "name": "Havells India Limited",
+    "sector": "Electricals",
+    "sub_sector": "Consumer Electricals",
+    "aliases": ["Havells", "Havells India"]
+  },
+  "VEDL": {
+    "name": "Vedanta Limited",
+    "sector": "Metals",
+    "sub_sector": "Diversified",
+    "aliases": ["Vedanta"]
+  },
+  "GODREJCP": {
+    "name": "Godrej Consumer Products Limited",
+    "sector": "FMCG",
+    "sub_sector": "Health & Personal Care",
+    "aliases": ["Godrej Consumer", "Godrej CP"]
+  },
+  "SHREECEM": {
+    "name": "Shree Cement Limited",
+    "sector": "Cement",
+    "sub_sector": "Large Cap",
+    "aliases": ["Shree Cement"]
+  },
+  "PIDILITIND": {
+    "name": "Pidilite Industries Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Pidilite", "Pidilite Industries"]
+  },
+  "DABUR": {
+    "name": "Dabur India Limited",
+    "sector": "FMCG",
+    "sub_sector": "Health & Personal Care",
+    "aliases": ["Dabur", "Dabur India"]
+  },
+  "SIEMENS": {
+    "name": "Siemens Limited",
+    "sector": "Industrials",
+    "sub_sector": "Diversified",
+    "aliases": ["Siemens", "Siemens India"]
+  },
+  "MARICO": {
+    "name": "Marico Limited",
+    "sector": "FMCG",
+    "sub_sector": "Health & Personal Care",
+    "aliases": ["Marico"]
+  },
+  "PFC": {
+    "name": "Power Finance Corporation Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Power Finance Corp", "PFC"]
+  },
+  "RECLTD": {
+    "name": "REC Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["REC", "REC Ltd", "Rural Electrification Corp"]
+  },
+  "HDFCLIFE": {
+    "name": "HDFC Life Insurance Company Limited",
+    "sector": "Insurance",
+    "sub_sector": "Life Insurance",
+    "aliases": ["HDFC Life", "HDFC Life Insurance"]
+  },
+  "SBILIFE": {
+    "name": "SBI Life Insurance Company Limited",
+    "sector": "Insurance",
+    "sub_sector": "Life Insurance",
+    "aliases": ["SBI Life", "SBI Life Insurance"]
+  },
+  "ICICIPRULI": {
+    "name": "ICICI Prudential Life Insurance Company Limited",
+    "sector": "Insurance",
+    "sub_sector": "Life Insurance",
+    "aliases": ["ICICI Prudential Life", "ICICI Prudential"]
+  },
+  "LICI": {
+    "name": "Life Insurance Corporation of India",
+    "sector": "Insurance",
+    "sub_sector": "Life Insurance",
+    "aliases": ["LIC", "LIC India", "LICI"]
+  },
+  "BANDHANBNK": {
+    "name": "Bandhan Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["Bandhan Bank"]
+  },
+  "INDUSINDBK": {
+    "name": "IndusInd Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["IndusInd Bank"]
+  },
+  "YESBANK": {
+    "name": "Yes Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["Yes Bank"]
+  },
+  "IDFCFIRSTB": {
+    "name": "IDFC First Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["IDFC First Bank", "IDFC First"]
+  },
+  "RBLBANK": {
+    "name": "RBL Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["RBL Bank"]
+  },
+  "FEDERALBNK": {
+    "name": "Federal Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Private Sector Bank",
+    "aliases": ["Federal Bank"]
+  },
+  "AUBANK": {
+    "name": "AU Small Finance Bank Limited",
+    "sector": "Banking",
+    "sub_sector": "Small Finance Bank",
+    "aliases": ["AU Small Finance Bank", "AU Bank", "AUBANK"]
+  },
+  "PNB": {
+    "name": "Punjab National Bank",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Punjab National Bank", "PNB"]
+  },
+  "BANKBARODA": {
+    "name": "Bank of Baroda",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Bank of Baroda", "BOB", "Baroda Bank"]
+  },
+  "CANBK": {
+    "name": "Canara Bank",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Canara Bank"]
+  },
+  "UNIONBANK": {
+    "name": "Union Bank of India",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Union Bank", "Union Bank of India"]
+  },
+  "INDIANB": {
+    "name": "Indian Bank",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Indian Bank"]
+  },
+  "BANKINDIA": {
+    "name": "Bank of India",
+    "sector": "Banking",
+    "sub_sector": "Public Sector Bank",
+    "aliases": ["Bank of India"]
+  },
+  "MOTHERSON": {
+    "name": "Motherson Sumi Wiring India Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Auto Components",
+    "aliases": ["Motherson Sumi", "Motherson", "Samvardhana Motherson"]
+  },
+  "BOSCHLTD": {
+    "name": "Bosch Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Auto Components",
+    "aliases": ["Bosch", "Bosch Ltd", "MICO"]
+  },
+  "BHARATFORG": {
+    "name": "Bharat Forge Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Forgings",
+    "aliases": ["Bharat Forge"]
+  },
+  "MRF": {
+    "name": "MRF Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Tyres",
+    "aliases": ["MRF", "MRF Tyres"]
+  },
+  "APOLLOTYRE": {
+    "name": "Apollo Tyres Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Tyres",
+    "aliases": ["Apollo Tyres"]
+  },
+  "CEATLTD": {
+    "name": "CEAT Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Tyres",
+    "aliases": ["CEAT", "CEAT Ltd"]
+  },
+  "BALKRISIND": {
+    "name": "Balkrishna Industries Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Tyres",
+    "aliases": ["Balkrishna Industries", "BKT"]
+  },
+  "EXIDEIND": {
+    "name": "Exide Industries Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Batteries",
+    "aliases": ["Exide Industries", "Exide"]
+  },
+  "AMARAJABAT": {
+    "name": "Amara Raja Energy & Mobility Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Batteries",
+    "aliases": ["Amara Raja Batteries", "Amara Raja"]
+  },
+  "ASHOKLEY": {
+    "name": "Ashok Leyland Limited",
+    "sector": "Automobile",
+    "sub_sector": "Commercial Vehicles",
+    "aliases": ["Ashok Leyland"]
+  },
+  "PAGEIND": {
+    "name": "Page Industries Limited",
+    "sector": "Textiles",
+    "sub_sector": "Innerwear",
+    "aliases": ["Page Industries", "Jockey"]
+  },
+  "DIVISLAB": {
+    "name": "Divi's Laboratories Limited",
+    "sector": "Pharma",
+    "sub_sector": "Pharma API",
+    "aliases": ["Divi's Lab", "Divis Laboratories", "Divi's"]
+  },
+  "AUROPHARMA": {
+    "name": "Aurobindo Pharma Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Aurobindo Pharma"]
+  },
+  "CADILAHC": {
+    "name": "Zydus Lifesciences Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Zydus Lifesciences", "Cadila Healthcare", "Zydus"]
+  },
+  "TORNTPHARM": {
+    "name": "Torrent Pharmaceuticals Limited",
+    "sector": "Pharma",
+    "sub_sector": "Large Cap Pharma",
+    "aliases": ["Torrent Pharma", "Torrent Pharmaceuticals"]
+  },
+  "BIOCON": {
+    "name": "Biocon Limited",
+    "sector": "Pharma",
+    "sub_sector": "Biologics",
+    "aliases": ["Biocon"]
+  },
+  "ALKEM": {
+    "name": "Alkem Laboratories Limited",
+    "sector": "Pharma",
+    "sub_sector": "Mid Cap Pharma",
+    "aliases": ["Alkem Laboratories", "Alkem"]
+  },
+  "LAURUSLABS": {
+    "name": "Laurus Labs Limited",
+    "sector": "Pharma",
+    "sub_sector": "Pharma API & CRAMS",
+    "aliases": ["Laurus Labs"]
+  },
+  "NATCOPHARM": {
+    "name": "Natco Pharma Limited",
+    "sector": "Pharma",
+    "sub_sector": "Mid Cap Pharma",
+    "aliases": ["Natco Pharma"]
+  },
+  "GLENMARK": {
+    "name": "Glenmark Pharmaceuticals Limited",
+    "sector": "Pharma",
+    "sub_sector": "Mid Cap Pharma",
+    "aliases": ["Glenmark", "Glenmark Pharma"]
+  },
+  "LTIM": {
+    "name": "LTIMindtree Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["LTIMindtree", "LTI Mindtree", "LTIM"]
+  },
+  "MPHASIS": {
+    "name": "Mphasis Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Mphasis"]
+  },
+  "PERSISTENT": {
+    "name": "Persistent Systems Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Persistent Systems", "Persistent"]
+  },
+  "COFORGE": {
+    "name": "Coforge Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Coforge"]
+  },
+  "LODHA": {
+    "name": "Macrotech Developers Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Residential",
+    "aliases": ["Macrotech Developers", "Lodha", "Macrotech"]
+  },
+  "DLF": {
+    "name": "DLF Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Residential",
+    "aliases": ["DLF"]
+  },
+  "OBEROIRLTY": {
+    "name": "Oberoi Realty Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Residential & Commercial",
+    "aliases": ["Oberoi Realty"]
+  },
+  "GODREJPROP": {
+    "name": "Godrej Properties Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Residential",
+    "aliases": ["Godrej Properties"]
+  },
+  "PRESTIGE": {
+    "name": "Prestige Estates Projects Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Residential & Commercial",
+    "aliases": ["Prestige Estates"]
+  },
+  "PHOENIXLTD": {
+    "name": "The Phoenix Mills Limited",
+    "sector": "Real Estate",
+    "sub_sector": "Commercial (Retail)",
+    "aliases": ["Phoenix Mills"]
+  },
+  "BPCL": {
+    "name": "Bharat Petroleum Corporation Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Refining & Marketing",
+    "aliases": ["Bharat Petroleum", "BPCL"]
+  },
+  "HPCL": {
+    "name": "Hindustan Petroleum Corporation Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Refining & Marketing",
+    "aliases": ["Hindustan Petroleum", "HPCL"]
+  },
+  "GAIL": {
+    "name": "GAIL (India) Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Natural Gas",
+    "aliases": ["GAIL", "GAIL India"]
+  },
+  "PETRONET": {
+    "name": "Petronet LNG Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "LNG",
+    "aliases": ["Petronet LNG", "Petronet"]
+  },
+  "IGL": {
+    "name": "Indraprastha Gas Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Natural Gas",
+    "aliases": ["Indraprastha Gas", "IGL"]
+  },
+  "MGL": {
+    "name": "Mahanagar Gas Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Natural Gas",
+    "aliases": ["Mahanagar Gas", "MGL"]
+  },
+  "GUJGASLTD": {
+    "name": "Gujarat Gas Limited",
+    "sector": "Oil & Gas",
+    "sub_sector": "Natural Gas",
+    "aliases": ["Gujarat Gas"]
+  },
+  "TATAPOWER": {
+    "name": "The Tata Power Company Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["Tata Power"]
+  },
+  "JSWENERGY": {
+    "name": "JSW Energy Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["JSW Energy"]
+  },
+  "TORNTPOWER": {
+    "name": "Torrent Power Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["Torrent Power"]
+  },
+  "SUZLON": {
+    "name": "Suzlon Energy Limited",
+    "sector": "Power",
+    "sub_sector": "Renewables (Wind)",
+    "aliases": ["Suzlon", "Suzlon Energy"]
+  },
+  "ACC": {
+    "name": "ACC Limited",
+    "sector": "Cement",
+    "sub_sector": "Mid Cap",
+    "aliases": ["ACC", "ACC Cement"]
+  },
+  "AMBUJACEM": {
+    "name": "Ambuja Cements Limited",
+    "sector": "Cement",
+    "sub_sector": "Mid Cap",
+    "aliases": ["Ambuja Cements", "Ambuja"]
+  },
+  "RAMCOCEM": {
+    "name": "The Ramco Cements Limited",
+    "sector": "Cement",
+    "sub_sector": "Mid Cap",
+    "aliases": ["Ramco Cements", "Ramco Cement"]
+  },
+  "DALMIABHA": {
+    "name": "Dalmia Bharat Limited",
+    "sector": "Cement",
+    "sub_sector": "Mid Cap",
+    "aliases": ["Dalmia Bharat"]
+  },
+  "JKCEMENT": {
+    "name": "JK Cement Limited",
+    "sector": "Cement",
+    "sub_sector": "Mid Cap",
+    "aliases": ["JK Cement"]
+  },
+  "SAIL": {
+    "name": "Steel Authority of India Limited",
+    "sector": "Metals",
+    "sub_sector": "Ferrous (Steel)",
+    "aliases": ["Steel Authority of India", "SAIL"]
+  },
+  "JINDALSTEL": {
+    "name": "Jindal Steel & Power Limited",
+    "sector": "Metals",
+    "sub_sector": "Ferrous (Steel)",
+    "aliases": ["Jindal Steel", "JSP"]
+  },
+  "NATIONALUM": {
+    "name": "National Aluminium Company Limited",
+    "sector": "Metals",
+    "sub_sector": "Non-Ferrous (Aluminum)",
+    "aliases": ["National Aluminium", "NALCO"]
+  },
+  "HINDZINC": {
+    "name": "Hindustan Zinc Limited",
+    "sector": "Metals",
+    "sub_sector": "Non-Ferrous (Zinc)",
+    "aliases": ["Hindustan Zinc"]
+  },
+  "NMDC": {
+    "name": "NMDC Limited",
+    "sector": "Metals",
+    "sub_sector": "Mining (Iron Ore)",
+    "aliases": ["NMDC"]
+  },
+  "APLAPOLLO": {
+    "name": "APL Apollo Tubes Limited",
+    "sector": "Metals",
+    "sub_sector": "Steel Tubes",
+    "aliases": ["APL Apollo", "APL Apollo Tubes"]
+  },
+  "VBL": {
+    "name": "Varun Beverages Limited",
+    "sector": "FMCG",
+    "sub_sector": "Packaged Foods",
+    "aliases": ["Varun Beverages"]
+  },
+  "TATACONSUM": {
+    "name": "Tata Consumer Products Limited",
+    "sector": "FMCG",
+    "sub_sector": "Packaged Foods",
+    "aliases": ["Tata Consumer", "Tata Consumer Products"]
+  },
+  "COLPAL": {
+    "name": "Colgate-Palmolive (India) Limited",
+    "sector": "FMCG",
+    "sub_sector": "Oral Care",
+    "aliases": ["Colgate", "Colgate Palmolive"]
+  },
+  "DMART": {
+    "name": "Avenue Supermarts Limited",
+    "sector": "Retail",
+    "sub_sector": "Grocery Retail",
+    "aliases": ["Avenue Supermarts", "DMart", "D-Mart"]
+  },
+  "TRENT": {
+    "name": "Trent Limited",
+    "sector": "Retail",
+    "sub_sector": "Fashion Retail",
+    "aliases": ["Trent", "Zudio", "Westside"]
+  },
+  "APOLLOHOSP": {
+    "name": "Apollo Hospitals Enterprise Limited",
+    "sector": "Healthcare",
+    "sub_sector": "Hospitals",
+    "aliases": ["Apollo Hospitals", "Apollo Hospital"]
+  },
+  "FORTIS": {
+    "name": "Fortis Healthcare Limited",
+    "sector": "Healthcare",
+    "sub_sector": "Hospitals",
+    "aliases": ["Fortis Healthcare", "Fortis"]
+  },
+  "MAXHEALTH": {
+    "name": "Max Healthcare Institute Limited",
+    "sector": "Healthcare",
+    "sub_sector": "Hospitals",
+    "aliases": ["Max Healthcare", "Max Health"]
+  },
+  "NH": {
+    "name": "Narayana Hrudayalaya Limited",
+    "sector": "Healthcare",
+    "sub_sector": "Hospitals",
+    "aliases": ["Narayana Health", "Narayana Hrudayalaya"]
+  },
+  "GLOBALHEALTH": {
+    "name": "Global Health Limited",
+    "sector": "Healthcare",
+    "sub_sector": "Hospitals",
+    "aliases": ["Global Health", "Medanta"]
+  },
+  "IRCTC": {
+    "name": "Indian Railway Catering and Tourism Corporation Limited",
+    "sector": "Travel",
+    "sub_sector": "Travel Services",
+    "aliases": ["IRCTC"]
+  },
+  "INDHOTEL": {
+    "name": "The Indian Hotels Company Limited",
+    "sector": "Hospitality",
+    "sub_sector": "Hotels",
+    "aliases": ["Indian Hotels", "Taj Hotels", "Taj Group"]
+  },
+  "EIHOTEL": {
+    "name": "EIH Limited",
+    "sector": "Hospitality",
+    "sub_sector": "Hotels",
+    "aliases": ["EIH", "EIH Hotels", "Oberoi Hotels"]
+  },
+  "ZEEL": {
+    "name": "Zee Entertainment Enterprises Limited",
+    "sector": "Media & Entertainment",
+    "sub_sector": "Broadcasting",
+    "aliases": ["Zee Entertainment", "Zee TV", "ZEEL"]
+  },
+  "SUNTV": {
+    "name": "Sun TV Network Limited",
+    "sector": "Media & Entertainment",
+    "sub_sector": "Broadcasting",
+    "aliases": ["Sun TV", "Sun TV Network"]
+  },
+  "PVRINOX": {
+    "name": "PVR INOX Limited",
+    "sector": "Media & Entertainment",
+    "sub_sector": "Multiplexes",
+    "aliases": ["PVR INOX", "PVR", "INOX"]
+  },
+  "IDEA": {
+    "name": "Vodafone Idea Limited",
+    "sector": "Telecom",
+    "sub_sector": "Mobile",
+    "aliases": ["Vodafone Idea", "Vi", "Vodafone"]
+  },
+  "TATACOMM": {
+    "name": "Tata Communications Limited",
+    "sector": "Telecom",
+    "sub_sector": "Data & Connectivity",
+    "aliases": ["Tata Communications"]
+  },
+  "INDUSTOWER": {
+    "name": "Indus Towers Limited",
+    "sector": "Telecom",
+    "sub_sector": "Tower Infrastructure",
+    "aliases": ["Indus Towers"]
+  },
+  "SHRIRAMFIN": {
+    "name": "Shriram Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Shriram Finance", "Shriram Transport"]
+  },
+  "CHOLAFIN": {
+    "name": "Cholamandalam Investment and Finance Company Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Cholamandalam", "Chola Finance"]
+  },
+  "L&TFH": {
+    "name": "L&T Finance Holdings Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["L&T Finance", "LT Finance"]
+  },
+  "M&MFIN": {
+    "name": "Mahindra & Mahindra Financial Services Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["M&M Finance", "Mahindra Finance"]
+  },
+  "POONAWALLA": {
+    "name": "Poonawalla Fincorp Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Poonawalla Fincorp", "Poonawalla"]
+  },
+  "LICHSGFIN": {
+    "name": "LIC Housing Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Housing Finance",
+    "aliases": ["LIC Housing", "LIC Housing Finance"]
+  },
+  "HUDCO": {
+    "name": "Housing and Urban Development Corporation Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Housing Finance",
+    "aliases": ["HUDCO"]
+  },
+  "SBICARDS": {
+    "name": "SBI Cards and Payment Services Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Credit Cards",
+    "aliases": ["SBI Cards"]
+  },
+  "IIFL": {
+    "name": "IIFL Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["IIFL", "IIFL Finance"]
+  },
+  "MANAPPURAM": {
+    "name": "Manappuram Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Gold Loan NBFC",
+    "aliases": ["Manappuram Finance", "Manappuram"]
+  },
+  "MUTHOOTFIN": {
+    "name": "Muthoot Finance Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Gold Loan NBFC",
+    "aliases": ["Muthoot Finance", "Muthoot"]
+  },
+  "ABCAPITAL": {
+    "name": "Aditya Birla Capital Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Aditya Birla Capital", "ABC Capital"]
+  },
+  "SRF": {
+    "name": "SRF Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["SRF"]
+  },
+  "NAVINFLUOR": {
+    "name": "Navin Fluorine International Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Navin Fluorine"]
+  },
+  "DEEPAKNTR": {
+    "name": "Deepak Nitrite Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Deepak Nitrite"]
+  },
+  "AARTIIND": {
+    "name": "Aarti Industries Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Aarti Industries"]
+  },
+  "ATUL": {
+    "name": "Atul Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Atul"]
+  },
+  "CLEAN": {
+    "name": "Clean Science and Technology Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Specialty Chemicals",
+    "aliases": ["Clean Science"]
+  },
+  "PIIND": {
+    "name": "PI Industries Limited",
+    "sector": "Agrochemicals",
+    "sub_sector": "Pesticides",
+    "aliases": ["PI Industries"]
+  },
+  "UPL": {
+    "name": "UPL Limited",
+    "sector": "Agrochemicals",
+    "sub_sector": "Pesticides",
+    "aliases": ["UPL", "United Phosphorus"]
+  },
+  "COROMANDEL": {
+    "name": "Coromandel International Limited",
+    "sector": "Fertilizers",
+    "sub_sector": "Phosphatic Fertilizers",
+    "aliases": ["Coromandel International", "Coromandel"]
+  },
+  "POLYCAB": {
+    "name": "Polycab India Limited",
+    "sector": "Electricals",
+    "sub_sector": "Wires & Cables",
+    "aliases": ["Polycab", "Polycab India"]
+  },
+  "VOLTAS": {
+    "name": "Voltas Limited",
+    "sector": "Consumer Durables",
+    "sub_sector": "ACs",
+    "aliases": ["Voltas"]
+  },
+  "BLUESTARCO": {
+    "name": "Blue Star Limited",
+    "sector": "Consumer Durables",
+    "sub_sector": "ACs",
+    "aliases": ["Blue Star"]
+  },
+  "BATAINDIA": {
+    "name": "Bata India Limited",
+    "sector": "Retail",
+    "sub_sector": "Footwear",
+    "aliases": ["Bata", "Bata India"]
+  },
+  "CONCOR": {
+    "name": "Container Corporation of India Limited",
+    "sector": "Logistics",
+    "sub_sector": "Container Rail",
+    "aliases": ["Container Corp", "CONCOR"]
+  },
+  "DELHIVERY": {
+    "name": "Delhivery Limited",
+    "sector": "Logistics",
+    "sub_sector": "E-commerce Logistics",
+    "aliases": ["Delhivery"]
+  },
+  "BLUEDART": {
+    "name": "Blue Dart Express Limited",
+    "sector": "Logistics",
+    "sub_sector": "Courier",
+    "aliases": ["Blue Dart"]
+  },
+  "IRB": {
+    "name": "IRB Infrastructure Developers Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Roads",
+    "aliases": ["IRB Infra", "IRB Infrastructure"]
+  },
+  "NCC": {
+    "name": "NCC Limited",
+    "sector": "Construction",
+    "sub_sector": "Commercial",
+    "aliases": ["NCC"]
+  },
+  "GMRINFRA": {
+    "name": "GMR Airports Infrastructure Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Airports",
+    "aliases": ["GMR Infra", "GMR Airports", "GMR"]
+  },
+  "RVNL": {
+    "name": "Rail Vikas Nigam Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Railways",
+    "aliases": ["Rail Vikas Nigam", "RVNL"]
+  },
+  "IRFC": {
+    "name": "Indian Railway Finance Corporation Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Railway Financing",
+    "aliases": ["IRFC", "Indian Railway Finance"]
+  },
+  "NBCC": {
+    "name": "NBCC (India) Limited",
+    "sector": "Construction",
+    "sub_sector": "Project Management",
+    "aliases": ["NBCC"]
+  },
+  "BHEL": {
+    "name": "Bharat Heavy Electricals Limited",
+    "sector": "Power",
+    "sub_sector": "Power Equipment",
+    "aliases": ["BHEL", "Bharat Heavy Electricals"]
+  },
+  "ZOMATO": {
+    "name": "Zomato Limited",
+    "sector": "Internet",
+    "sub_sector": "Food Delivery",
+    "aliases": ["Zomato"]
+  },
+  "PAYTM": {
+    "name": "One 97 Communications Limited",
+    "sector": "Internet",
+    "sub_sector": "Digital Payments",
+    "aliases": ["One 97 Communications", "Paytm", "PayTM"]
+  },
+  "NYKAA": {
+    "name": "FSN E-Commerce Ventures Limited",
+    "sector": "Internet",
+    "sub_sector": "E-commerce",
+    "aliases": ["FSN E-Commerce", "Nykaa"]
+  },
+  "INOXINDIA": {
+    "name": "INOX India Limited",
+    "sector": "Industrials",
+    "sub_sector": "Cryogenic Equipment",
+    "aliases": ["INOX India"]
+  },
+  "TITAGARH": {
+    "name": "Titagarh Rail Systems Limited",
+    "sector": "Industrials",
+    "sub_sector": "Railway Equipment",
+    "aliases": ["Titagarh", "Titagarh Wagons"]
+  },
+  "VTL": {
+    "name": "Vardhman Textiles Limited",
+    "sector": "Textiles",
+    "sub_sector": "Composite Mills",
+    "aliases": ["Vardhman Textiles"]
+  },
+  "WELSPUNIND": {
+    "name": "Welspun India Limited",
+    "sector": "Textiles",
+    "sub_sector": "Home Textiles",
+    "aliases": ["Welspun India"]
+  },
+  "KPRMILL": {
+    "name": "KPR Mill Limited",
+    "sector": "Textiles",
+    "sub_sector": "Integrated Textiles",
+    "aliases": ["KPR Mill"]
+  },
+  "TRIDENT": {
+    "name": "Trident Limited",
+    "sector": "Textiles",
+    "sub_sector": "Home Textiles",
+    "aliases": ["Trident"]
+  },
+  "RAYMOND": {
+    "name": "Raymond Limited",
+    "sector": "Textiles",
+    "sub_sector": "Integrated Textiles",
+    "aliases": ["Raymond"]
+  },
+  "ARVIND": {
+    "name": "Arvind Limited",
+    "sector": "Textiles",
+    "sub_sector": "Integrated Textiles",
+    "aliases": ["Arvind"]
+  },
+  "ABCAPITAL": {
+    "name": "Aditya Birla Capital Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Aditya Birla Capital"]
+  },
+  "STARHEALTH": {
+    "name": "Star Health and Allied Insurance Company Limited",
+    "sector": "Insurance",
+    "sub_sector": "Health Insurance",
+    "aliases": ["Star Health"]
+  },
+  "ICICIGI": {
+    "name": "ICICI Lombard General Insurance Company Limited",
+    "sector": "Insurance",
+    "sub_sector": "General Insurance",
+    "aliases": ["ICICI Lombard", "ICICI General"]
+  },
+  "NHPC": {
+    "name": "NHPC Limited",
+    "sector": "Power",
+    "sub_sector": "Generation (Hydro)",
+    "aliases": ["NHPC"]
+  },
+  "SJVN": {
+    "name": "SJVN Limited",
+    "sector": "Power",
+    "sub_sector": "Generation (Hydro)",
+    "aliases": ["SJVN"]
+  },
+  "CESC": {
+    "name": "CESC Limited",
+    "sector": "Power",
+    "sub_sector": "Generation",
+    "aliases": ["CESC"]
+  },
+  "JUBLFOOD": {
+    "name": "Jubilant FoodWorks Limited",
+    "sector": "Retail",
+    "sub_sector": "Quick Service Restaurants",
+    "aliases": ["Jubilant FoodWorks", "Domino's India", "Jubilant"]
+  },
+  "WHIRLPOOL": {
+    "name": "Whirlpool of India Limited",
+    "sector": "Consumer Durables",
+    "sub_sector": "Home Appliances",
+    "aliases": ["Whirlpool India", "Whirlpool"]
+  },
+  "ABB": {
+    "name": "ABB India Limited",
+    "sector": "Industrials",
+    "sub_sector": "Diversified",
+    "aliases": ["ABB India", "ABB"]
+  },
+  "SONACOMS": {
+    "name": "Sona BLW Precision Forgings Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Auto Components",
+    "aliases": ["Sona BLW", "Sona Comstar", "Sona Com"]
+  },
+  "ENDURANCE": {
+    "name": "Endurance Technologies Limited",
+    "sector": "Auto Ancillaries",
+    "sub_sector": "Auto Components",
+    "aliases": ["Endurance Technologies"]
+  },
+  "OFSS": {
+    "name": "Oracle Financial Services Software Limited",
+    "sector": "Software",
+    "sub_sector": "Banking Software",
+    "aliases": ["Oracle Financial", "OFSS"]
+  },
+  "KPITTECH": {
+    "name": "KPIT Technologies Limited",
+    "sector": "IT Services",
+    "sub_sector": "ER&D - Automotive",
+    "aliases": ["KPIT Technologies", "KPIT"]
+  },
+  "CYIENT": {
+    "name": "Cyient Limited",
+    "sector": "IT Services",
+    "sub_sector": "Engineering R&D",
+    "aliases": ["Cyient"]
+  },
+  "TATAELXSI": {
+    "name": "Tata Elxsi Limited",
+    "sector": "IT Services",
+    "sub_sector": "ER&D",
+    "aliases": ["Tata Elxsi"]
+  },
+  "BSOFT": {
+    "name": "Birlasoft Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Birlasoft"]
+  },
+  "ZENSARTECH": {
+    "name": "Zensar Technologies Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Zensar Technologies", "Zensar"]
+  },
+  "HEXAWARE": {
+    "name": "Hexaware Technologies Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Hexaware"]
+  },
+  "HAPPSTMNDS": {
+    "name": "Happiest Minds Technologies Limited",
+    "sector": "IT Services",
+    "sub_sector": "Mid Cap IT",
+    "aliases": ["Happiest Minds"]
+  },
+  "IREDA": {
+    "name": "Indian Renewable Energy Development Agency Limited",
+    "sector": "Financial Services",
+    "sub_sector": "Green Energy Financing",
+    "aliases": ["IREDA"]
+  },
+  "RITES": {
+    "name": "RITES Limited",
+    "sector": "Infrastructure",
+    "sub_sector": "Railway Consulting",
+    "aliases": ["RITES"]
+  },
+  "HAL": {
+    "name": "Hindustan Aeronautics Limited",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense",
+    "aliases": ["Hindustan Aeronautics", "HAL", "HAL India"]
+  },
+  "BEL": {
+    "name": "Bharat Electronics Limited",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense",
+    "aliases": ["Bharat Electronics", "BEL"]
+  },
+  "BDL": {
+    "name": "Bharat Dynamics Limited",
+    "sector": "Industrials",
+    "sub_sector": "Aerospace & Defense",
+    "aliases": ["Bharat Dynamics", "BDL"]
+  },
+  "SOLARINDS": {
+    "name": "Solar Industries India Limited",
+    "sector": "Chemicals",
+    "sub_sector": "Explosives",
+    "aliases": ["Solar Industries"]
+  },
+  "GODREJIND": {
+    "name": "Godrej Industries Limited",
+    "sector": "Diversified",
+    "sub_sector": "Conglomerate",
+    "aliases": ["Godrej Industries"]
+  },
+  "AJANTPHARM": {
+    "name": "Ajanta Pharma Limited",
+    "sector": "Pharma",
+    "sub_sector": "Mid Cap Pharma",
+    "aliases": ["Ajanta Pharma"]
+  },
+  "IPCALAB": {
+    "name": "Ipca Laboratories Limited",
+    "sector": "Pharma",
+    "sub_sector": "Mid Cap Pharma",
+    "aliases": ["Ipca Laboratories"]
+  },
+  "GLAND": {
+    "name": "Gland Pharma Limited",
+    "sector": "Pharma",
+    "sub_sector": "Injectables",
+    "aliases": ["Gland Pharma"]
+  },
+  "JIOFIN": {
+    "name": "Jio Financial Services Limited",
+    "sector": "Financial Services",
+    "sub_sector": "NBFC",
+    "aliases": ["Jio Financial", "JioFin"]
+  },
+  "MAZDOCK": {
+    "name": "Mazagon Dock Shipbuilders Limited",
+    "sector": "Industrials",
+    "sub_sector": "Shipbuilding",
+    "aliases": ["Mazagon Dock"]
+  },
+  "COCHINSHIP": {
+    "name": "Cochin Shipyard Limited",
+    "sector": "Industrials",
+    "sub_sector": "Shipbuilding",
+    "aliases": ["Cochin Shipyard"]
+  },
+  "GRSE": {
+    "name": "Garden Reach Shipbuilders & Engineers Limited",
+    "sector": "Industrials",
+    "sub_sector": "Shipbuilding",
+    "aliases": ["Garden Reach", "GRSE"]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "rbi_monetary_policy": {
+    "keywords": ["RBI", "repo rate", "reverse repo", "interest rate", "monetary policy", "CRR", "SLR", "MPC", "monetary policy committee", "rate cut", "rate hike", "Shaktikanta Das"],
+    "weight": 10,
+    "category": "Macro Economy"
+  },
+  "union_budget": {
+    "keywords": ["union budget", "budget 2026", "budget 2025", "budget 2027", "finance minister", "Nirmala Sitharaman", "fiscal deficit", "budget session"],
+    "weight": 9,
+    "category": "Macro Economy"
+  },
+  "quarterly_results": {
+    "keywords": ["quarterly results", "Q1 results", "Q2 results", "Q3 results", "Q4 results", "net profit", "net profit rises", "net profit falls", "revenue growth", "EBITDA", "margin", "profit jumps", "profit drops"],
+    "weight": 9,
+    "category": "Corporate"
+  },
+  "corporate_actions": {
+    "keywords": ["buyback", "dividend announced", "bonus issue", "stock split", "rights issue", "share buyback", "record date"],
+    "weight": 6,
+    "category": "Corporate"
+  },
+  "ipo_fpo": {
+    "keywords": ["IPO", "initial public offering", "FPO", "follow-on public offer", "listing", "listing gains", "IPO subscription", "anchor investor"],
+    "weight": 7,
+    "category": "Corporate"
+  },
+  "inflation_data": {
+    "keywords": ["CPI", "inflation", "consumer price index", "wholesale price index", "WPI", "retail inflation", "food inflation"],
+    "weight": 8,
+    "category": "Macro Economy"
+  },
+  "gdp_data": {
+    "keywords": ["GDP", "gross domestic product", "economic growth", "economy grows", "economic slowdown"],
+    "weight": 8,
+    "category": "Macro Economy"
+  },
+  "industrial_data": {
+    "keywords": ["IIP", "industrial production", "manufacturing", "factory output", "core sector", "infrastructure output"],
+    "weight": 7,
+    "category": "Macro Economy"
+  },
+  "pmi_data": {
+    "keywords": ["PMI", "manufacturing PMI", "services PMI", "composite PMI", "purchasing managers index"],
+    "weight": 7,
+    "category": "Macro Economy"
+  },
+  "geopolitical": {
+    "keywords": ["war", "sanctions", "trade war", "geopolitical tension", "conflict", "tariff", "border tension", "military action", "crude spike", "oil prices surge"],
+    "weight": 9,
+    "category": "Geopolitical"
+  },
+  "government_policy": {
+    "keywords": ["government", "policy change", "regulation", "SEBI", "IRDAI", "TRAI", "cabinet approval", "parliament", "bill passed", "amendment", "new rule"],
+    "weight": 8,
+    "category": "Policy & Regulation"
+  },
+  "sector_outlook": {
+    "keywords": ["sector outlook", "industry outlook", "sector", "bullish on", "bearish on", "overweight", "underweight", "recommendation"],
+    "weight": 5,
+    "category": "Markets"
+  },
+  "ma_deals": {
+    "keywords": ["merger", "acquisition", "takeover", "stake sale", "buyout", "joint venture", "JV", "strategic partnership", "divestment", "disinvestment"],
+    "weight": 8,
+    "category": "Corporate"
+  },
+  "global_markets": {
+    "keywords": ["Wall Street", "Dow Jones", "S&P 500", "Nasdaq", "global markets", "US Fed", "Federal Reserve", "Fed rate", "European markets", "Asian markets", "Nikkei", "Hang Seng", "Shanghai"],
+    "weight": 7,
+    "category": "Global Markets"
+  },
+  "crude_oil": {
+    "keywords": ["crude oil", "Brent crude", "WTI", "oil prices", "OPEC", "oil production", "petrol price", "diesel price"],
+    "weight": 7,
+    "category": "Global Markets"
+  },
+  "currency": {
+    "keywords": ["rupee", "USD/INR", "dollar vs rupee", "rupee falls", "rupee strengthens", "forex reserves", "foreign exchange"],
+    "weight": 7,
+    "category": "Macro Economy"
+  },
+  "annual_report": {
+    "keywords": ["annual report", "annual results", "FY26", "FY25", "fiscal year", "annual profit", "annual revenue"],
+    "weight": 8,
+    "category": "Corporate"
+  },
+  "company_news": {
+    "keywords": ["announces", "launches", "wins order", "secures contract", "plant", "factory", "expansion", "new product", "partnership", "appoints", "CEO", "management change", "restructuring"],
+    "weight": 5,
+    "category": "Corporate"
+  },
+  "fund_flow": {
+    "keywords": ["FII", "FPI", "DII", "foreign institutional investors", "domestic institutional investors", "mutual fund", "MF inflow", "MF outflow", "retail investors"],
+    "weight": 6,
+    "category": "Markets"
+  },
+  "market_mood": {
+    "keywords": ["Sensex", "Nifty", "market rally", "market fall", "bull run", "bear market", "correction", "volatility", "record high", "crash", "sell-off", "buying", "selling pressure"],
+    "weight": 5,
+    "category": "Markets"
+  },
+  "natural_disaster": {
+    "keywords": ["cyclone", "earthquake", "flood", "drought", "pandemic", "epidemic", "natural disaster", "climate change"],
+    "weight": 7,
+    "category": "Geopolitical"
+  }
+}
